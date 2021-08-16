@@ -201,7 +201,7 @@ describe('Bonus: Calculate the average of a mixed elements array', () => {
 });
 
 describe('Unique array', () => {
-  it('should create a function named uniquifyArray', () => {
+  it('should create a function named uniqueArray', () => {
     expect(typeof uniqueArray).toBe('function');
   });
 
